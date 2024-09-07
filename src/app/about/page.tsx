@@ -26,7 +26,7 @@ const page = () => {
 Merhaba! Ben Ahmet Faruk Sönmez,<br /><br />
  Atatürk Üniversitesi Psikoloji Bölümü öğrencisiyim. İlgi alanlarım esasında gerek grafik tasarım tecrübem gerekse psikoloji bölümünün getirisi olarak tasarımın psikoloji üzerindeki etkisi etrafında oluştu. Bu alandaki bilgi ve becerilerimi geliştirmek için sürekli olarak araştırmalar yapıyor, güncel literatürü takip ediyorum.<br /><br />
 Kullanıcı Deneyimi ve tasarım psikolojisine olan ilgim kurucu ortağı olduğum Alavanweb&apos;de, kullanıcı dostu ve birbirinden farklı tasarım dilleri ile oluşturduğum ürünler ve müşterilerden aldığım geri bildirimlerle oluşmaya başladı. Ticari faliyetlerimi ikinci plana atıp psikoloji bölümünü okumaya başladığımda ise daha farklı bir bakış açısıyla yaklaştığım bu ilgimin ilerdeki çalışmalarıma önayak olacağı kanaatindeyim. Tasarım psikolojisinin yanı sıra okuduğum bölümün getirisi olarak son zamanlarda psikolojinin deneysel tarafına da oldukça ilgiliyim.<br /><br />
-Gelecekte, Tasarım psikoloji kullanıcı deneyimi ve deneysel psikoloji gibi ilgi alanlarımı yerine göre endüstride ve akademik çalışmalarımda kullanarak piyasaya ve akademik camiaya faydalı olma niyetindeyim. Bu doğrultusunda, hem akademik hem de endüstriyel kariyerimi titizlikle şekillendiriyorum.<br /><br />
+Gelecekte, Tasarım psikolojisi, kullanıcı deneyimi ve deneysel psikoloji gibi ilgi alanlarımı yerine göre endüstride ve akademik çalışmalarımda kullanarak piyasaya ve akademik camiaya faydalı olma niyetindeyim. Bu doğrultusunda, hem akademik hem de endüstriyel kariyerimi titizlikle şekillendiriyorum.<br /><br />
 
 </p>
 
