@@ -49,14 +49,14 @@ export const metadata: Metadata = {
     url: siteConfig.url,
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${siteConfig.url}/og-image.png`],
+    images: [`${siteConfig.url}/afso.png`],
     siteName: siteConfig.name,
   },
   twitter: {
     card: "summary_large_image",
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${siteConfig.url}/og-image.png`],
+    images: [`${siteConfig.url}/afso.png`],
     creator: "@Taquiimam14",
   },
   icons: {
