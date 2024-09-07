@@ -46,7 +46,7 @@ const educationPage = () => {
                 Şu anda kurucu ortağı olduğum AlavanWeb'de pasif olarak grafik tasarım işlerine bakmaktayım.
               </p>
               <Link href="https://www.alavanweb.com" className="inline-flex items-center px-4 py-2 mt-4 ">
-                <HackerBtn label='AlavanWeb’i ziyaret edin' />
+                <HackerBtn label='AlavanWeb&apos;i ziyaret edin' />
               </Link>
             </FramerWrapper>
           </div>
