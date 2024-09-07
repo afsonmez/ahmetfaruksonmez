@@ -10,9 +10,10 @@ import FramerWrapper from "@/components/FramerWrapper";
 export const siteConfig = {
   name: "Ahmet Faruk Sönmez",
   description: "Psikoloji öğrencisi ve Grafik Tasarımcı",
-  ogImage: "../../public/afso.png",
+  ogImage: "https://ahmetfaruksonmez.vercel.app/afso.png", // Mutlak URL olarak belirtildi
   url: "https://ahmetfaruksonmez.vercel.app/",
-}
+};
+
 export default function Home() {
   return (
    <>
