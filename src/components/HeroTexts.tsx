@@ -8,7 +8,7 @@ const HeroTexts = () => {
     <>
       
       <h1 className="font-rubik text-7xl name_underline text-primary max-sm:text-6xl " >
-        Ahmet Faruk <br /> Sönmez .
+        Ahmet Faruk <br /> Sönmez.
       </h1>
         <TextRotator/> 
      
